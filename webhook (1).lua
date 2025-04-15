@@ -5,7 +5,7 @@ local LocalDataService = require(ReplicatedStorage.Client.Framework.Services.Loc
 
 local LegendaryPets = {}
 
-_G.WebhookURL = "PUT WEBHOOK HERE"
+_G.WebhookURL = "https://discord.com/api/webhooks/1361400995296575658/iphZT3TNFH9BGTgOV-JTAyvLKMUx0b_hk0_gNIGyLga14E5VfFa2vk6JYQVydjw4XjUY"
 
 local function convertToShorter(number, type)
     print("[DEBUG] convertToShorter - Input:", number, "Type:", type)
